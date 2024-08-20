@@ -8,7 +8,7 @@ Aluno do UNICEUB, fazendo a primeira graduação em ciências da computação �
 
 - 📈 procurando por problemas e desenvolvendo soluções.
 
-**Afinidade com as linguagens:**
+**Afinidade com:**
 
 [![My Skills](https://skillicons.dev/icons?i=dart,html,css,js,py,mysql&perline=5)](https://skillicons.dev)
 
