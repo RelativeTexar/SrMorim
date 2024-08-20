@@ -1,9 +1,8 @@
 # Bem-Vindo! Me chamo Felipe Monteiro.
-Aluno do UNICEUB
+Aluno do UNICEUB, fazendo a primeira graduação em ciências da computação 💻
 
 **Sobre mim**
-
-- 💼 Estudando desenvolvimento Full-Stack, Pentest, Segurança de redes e cibersegurança constantemente.
+- 🕵️‍♂️ Estudando desenvolvimento Full-Stack, Pentest, Segurança de redes e cibersegurança ao todo constantemente.
 
 - 🎥 Criador de conteúdo sobre cibersegurança.
 
