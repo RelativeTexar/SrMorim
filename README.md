@@ -8,11 +8,13 @@ Aluno do UNICEUB, fazendo a primeira graduação em ciências da computação �
 
 - 📈 procurando por problemas e desenvolvendo soluções.
 
-**Afinidade com:**
-<code><img height="20" alt="python" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png"></code>
-<code><img height="20" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-<code><img height="20" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-<code><img height="20" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>  
+**Afinidade com as linguagens:**
+
+[![My Skills](https://skillicons.dev/icons?i=dart,html,css,js,py,mysql&perline=5)](https://skillicons.dev)
+
+**Habilidades com:**
+
+[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,terraform,grafana,mongo,arduino,rabbitmq,linux&perline=5)](https://skillicons.dev)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeCeub&theme=dark" />
