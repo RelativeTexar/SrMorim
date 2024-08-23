@@ -1,20 +1,22 @@
-# Bem-Vindo! Me chamo Felipe Monteiro.
-Aluno do UNICEUB, fazendo a primeira graduação em ciências da computação 💻
+# Welcome! I'm Felipe Monteiro.
+UNICEUB student, taking my first graduation in computer science 💻🇧🇷
 
-**Sobre mim**
-- 🕵️‍♂️ Estudando desenvolvimento Full-Stack, Pentest, Segurança de redes e cibersegurança ao todo constantemente.
+**About me**
 
-- 🎥 Criador de conteúdo sobre cibersegurança.
+- 🕵️‍♂️ Studying Full-Stack development, Pentest, Network Security and Cybersecurity all the time.
 
-- 📈 procurando por problemas e desenvolvendo soluções.
+- 🎥 YouTube content creator about cybersecurity.
 
-**Afinidade com:**
+- 📈 looking for problems and developing solutions.
+
+**Affinity with:**
 
 [![My Skills](https://skillicons.dev/icons?i=dart,html,css,js,py,mysql&perline=5)](https://skillicons.dev)
 
-**Habilidades com:**
+**Skills with:**
 
 [![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,terraform,grafana,mongo,arduino,rabbitmq,linux&perline=5)](https://skillicons.dev)
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeCeub&theme=dark" />
