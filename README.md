@@ -11,11 +11,11 @@ UNICEUB student, taking my first graduation in computer science 💻🇧🇷
 
 **Affinity with:**
 
-[![My Skills](https://skillicons.dev/icons?i=dart,html,css,js,py,mysql&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,html,css,js,py,mysql&perline=3)](https://skillicons.dev)
 
 **Skills with:**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,terraform,grafana,mongo,arduino,rabbitmq,linux&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,terraform,grafana,mongo,arduino,rabbitmq,linux&perline=4)](https://skillicons.dev)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
