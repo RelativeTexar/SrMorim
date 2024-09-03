@@ -30,6 +30,3 @@ UNICEUB student, taking my first graduation in computer science 💻🇧🇷
 <a href="https://www.youtube.com/@SirMorim" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/sr.morim" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/felipe-monteiro-4581ab304/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@felipeamorim24563/30-nites-of-code)  
-  ![@felipeamorim24563 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=SrMorim)
