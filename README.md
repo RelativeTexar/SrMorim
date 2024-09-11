@@ -15,7 +15,7 @@ UNICEUB student, taking my first graduation in computer science 💻🇧🇷
 
 **Skills with:**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,terraform,grafana,mongo,arduino,rabbitmq,linux&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,terraform,grafana,mongo,arduino,rabbitmq,linux,kali,bash,python,&perline=8)](https://skillicons.dev)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
